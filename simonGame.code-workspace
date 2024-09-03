@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Downloads/Simon Game Challenge Starting Files 2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "simonGame"
+  }
+}
