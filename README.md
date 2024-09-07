@@ -25,7 +25,7 @@ In the **Simon Game**, you'll see a sequence of colored buttons light up and hea
 
 - **Hamza Khalfi** - Developer
 
-Feel free to explore the project and connect with me on [GitHub](https://github.com/yourusername).
+Feel free to explore the project and connect with me on [GitHub](https://github.com/HamzaZ4).
 
 ---
 
