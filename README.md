@@ -1,6 +1,7 @@
 # Simon Game
 
-## Replicating the famous short term memory skill game Simon
+## About the Project
+This project is a recreation of the classic short-term memory game, **Simon**. I built it as a fun mini-project to enhance my skills in JavaScript, HTML, and CSS.
 
-This is just a miniProject I did for fun and that I was looking into doing
-to practice a little bit more javascript, html and css.
+## How It Works
+The **Simon Game** challenges your memory by lighting up buttons in a sequence. Each round adds a new beep to the pattern, and it's your job to repeat the sequence correctly. The game continues until you make a mistake!
